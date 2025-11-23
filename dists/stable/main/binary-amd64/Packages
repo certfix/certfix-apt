@@ -1,7 +1,7 @@
 Package: certfix-agent
 Version: 0.0.2-1
 Architecture: arm64
-Maintainer: Certfix Team <support@certfix.com>
+Maintainer: Certfix Team <development@certfix.io>
 Installed-Size: 4547
 Depends: libc6 (>= 2.34), ca-certificates
 Filename: pool/main/certfix-agent_0.0.2-1_arm64.deb
