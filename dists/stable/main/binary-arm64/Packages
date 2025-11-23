@@ -1,0 +1,19 @@
+Package: certfix-agent
+Version: 0.0.1-1
+Architecture: arm64
+Maintainer: Certfix Team <support@certfix.com>
+Installed-Size: 4547
+Depends: libc6 (>= 2.34), ca-certificates
+Filename: pool/main/certfix-agent_0.0.1-1_arm64.deb
+Size: 1637202
+MD5sum: a5e1292bbacb94668f82359a204fba12
+SHA1: 7bbe242e2bbf417ad548fa8c9784dbc4ee509f19
+SHA256: 88a4ae363b0036653d9bd5c2d6e4ed43de8b70e7695a6c6c5063ced897c11a74
+Section: utils
+Priority: optional
+Homepage: https://github.com/certfix/certfix-agent
+Description: Certfix Agent for digital certificate management
+ Certfix Agent is a lightweight, cross-platform tool for managing and
+ automating digital certificates. It connects to the Certfix API to
+ securely retrieve and renew certificates.
+
