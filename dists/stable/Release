@@ -1,0 +1,17 @@
+Date: Sun, 23 Nov 2025 20:36:14 +0000
+MD5Sum:
+ 3e6c413f17c4f05e327a6390153504bb               38 Release
+ b174aceb56c77ca702662c873b1e8090              747 main/binary-arm64/Packages
+ 41dfff6d3308e957b9c1735da830c68e              499 main/binary-arm64/Packages.gz
+SHA1:
+ 7cc1f58daa4090c46f10b92173747e404f40a6e6               38 Release
+ 2f93e22428a5d41150a7bbb23a3243af63e7f0f6              747 main/binary-arm64/Packages
+ e6406af0e28d0396aebb4e0170a182dd27f104e3              499 main/binary-arm64/Packages.gz
+SHA256:
+ 4bf15794f7f4ea96d5296d2fa3441f2a404b7ec0fbe5f3900a25579644f0ce60               38 Release
+ 9d28541a5e6f7d206800e4ff529c3cef478121e6701adc2a81cf18c713bb9fa6              747 main/binary-arm64/Packages
+ cc5de716c7959a958bc83e313ee99c8e0b79b43e8ba449fdce87049c83e4ab21              499 main/binary-arm64/Packages.gz
+SHA512:
+ 3bd747b93a0f65ae233ff798ee43c36459fd3ffd0f5d304e418bb64692564f4bca2779390f9b01a2c9b54bd7a3683566163243c609baa392e5656ccd5a013653               38 Release
+ d4281d1adbb3f8a50c53cca8493d5d007cef55b4b679f9a7fdf738cde112bd56f32971946f48ade11629038cb2dbd5271229d33c54d3d91ac7ca6242fbeb7fa4              747 main/binary-arm64/Packages
+ 3f0ad1408959abe52d9a284adc5d8d72727fba1bcf4cba1b66126f06878f0674b36fed189dea32215f98624dee6283a923c9f534fd82bb2b5fb7b13edaf864c1              499 main/binary-arm64/Packages.gz
