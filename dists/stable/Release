@@ -1,0 +1,24 @@
+Architectures: amd64 arm64
+Codename: stable
+Components: main
+Date: Sun, 23 Nov 2025 22:09:18 +0000
+Description: Certfix APT Repository
+Label: certfix repo
+Origin: certfix
+Suite: stable
+MD5Sum:
+ 92f174b6201abe2c576889a1d5e88e91              185 Release
+ b174aceb56c77ca702662c873b1e8090              747 main/binary-arm64/Packages
+ 1e711341ebcdb12132d197542a28ee37              499 main/binary-arm64/Packages.gz
+SHA1:
+ 368bcf5dac8de8a893ca1012f2edacb9a22ea20a              185 Release
+ 2f93e22428a5d41150a7bbb23a3243af63e7f0f6              747 main/binary-arm64/Packages
+ 407c245070c30e3e869d22e30a326919ddf71596              499 main/binary-arm64/Packages.gz
+SHA256:
+ 9df41d492bebc01fd7f966617f1dded8398bf0378c3756723af604318856e3ec              185 Release
+ 9d28541a5e6f7d206800e4ff529c3cef478121e6701adc2a81cf18c713bb9fa6              747 main/binary-arm64/Packages
+ cf95b87644b22d508b92bbef78b2e37a6fb233a3a645e342cac69eb656c85a6a              499 main/binary-arm64/Packages.gz
+SHA512:
+ 1439b9dd0ee928e7caef4f598185e8df38f5a9bfe569551ce1edca00d9c43c4ecab6a9b2114829635bbbb2be0e136f66f4acb16889d42128550acc97f7af08b8              185 Release
+ d4281d1adbb3f8a50c53cca8493d5d007cef55b4b679f9a7fdf738cde112bd56f32971946f48ade11629038cb2dbd5271229d33c54d3d91ac7ca6242fbeb7fa4              747 main/binary-arm64/Packages
+ 21b0025b25878093c9540df16bff35cb9f2c7b294b80133cf524d8225704e8af0d841f1dc818564c21cdb8a3f1337273b5802a650d15a6f6c8707e205191b2b4              499 main/binary-arm64/Packages.gz
