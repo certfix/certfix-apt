@@ -1,0 +1,7 @@
+Origin: CertFix
+Label: certfix-apt
+Suite: stable
+Codename: stable
+Architectures: arm64
+Components: main
+Description: Repositório APT hospedado no GitHub Pages
