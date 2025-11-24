@@ -1,14 +1,14 @@
 Package: certfix-agent
-Version: 0.0.2-1
+Version: 0.0.3-1
 Architecture: amd64
 Maintainer: Certfix Team <development@certfix.io>
-Installed-Size: 5487
+Installed-Size: 5488
 Depends: ca-certificates
-Filename: pool/main/certfix-agent_0.0.2-1_amd64.deb
-Size: 2054870
-MD5sum: 3d009b99852d52a6414b21f899f82620
-SHA1: 8989d46583b79b11202888113b3494a8b39ce6da
-SHA256: c06150db95a2fcab4c9242bf57ed0e5fd25d5297076d2fc6ca51f9edc343c594
+Filename: pool/main/certfix-agent_0.0.3-1_amd64.deb
+Size: 2054954
+MD5sum: 5ea6c15e31bfcccecc5ad6531118e408
+SHA1: 656a1f9352cdbec25bfbf55a8790033d2b0c3184
+SHA256: 088cded7333b20935f2c61e5d12acb4af9bdd8aff1eac6bcb3738fec9f461d85
 Section: utils
 Priority: optional
 Homepage: https://github.com/certfix/certfix-agent
