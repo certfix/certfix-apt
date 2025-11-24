@@ -1,0 +1,32 @@
+Architectures: amd64 arm64
+Codename: stable
+Components: main
+Date: Mon, 24 Nov 2025 01:09:46 +0000
+Description: Certfix APT Repository
+Label: certfix repo
+Origin: certfix
+Suite: stable
+MD5Sum:
+ dd381e5d0c7d7ce468dcb2694517d62c              185 Release
+ ff184a153b7287e292a61854c80f8a05              714 main/binary-amd64/Packages
+ 0f782b06fb4f2f47d1789afbb416c4b0              474 main/binary-amd64/Packages.gz
+ 6ec0bfda0cac35e759d92232264fdef6              714 main/binary-arm64/Packages
+ d5436c89d07d81c88ac0efd8d12ed2fd              475 main/binary-arm64/Packages.gz
+SHA1:
+ 86df0b691763059a2e61c33d39931c51227da74e              185 Release
+ b62655b945c1ba77eec6c632b03bf3b6ffcebcbd              714 main/binary-amd64/Packages
+ dcb1462f42e2f012c0486917529fb2196a323c06              474 main/binary-amd64/Packages.gz
+ faa82e5d634c6311bdc4ddae5565772ff3d6549b              714 main/binary-arm64/Packages
+ 94b93216f96f2ebffa832e9fb88ff881961c3ae0              475 main/binary-arm64/Packages.gz
+SHA256:
+ 4a1bef84f038e6efb6f691f876ac7d7c64320c3d9629e306be5841bdab5b3e35              185 Release
+ d1ccf8a872b3e8dee54dc6454e7969d83f20b12cdc950c783e6263f7f19dfc82              714 main/binary-amd64/Packages
+ 41280173f5117551788a6daf3f62349bad8c3115c77351647138f148e9eb8350              474 main/binary-amd64/Packages.gz
+ c3f7631600dc6107e4af1483557a88fb3bf014ea00a6e03501609211443a8708              714 main/binary-arm64/Packages
+ 4de301099d28447a0292c78f4ea80269a9adf0766cd6051a2ebc4bed54ff04ca              475 main/binary-arm64/Packages.gz
+SHA512:
+ 92274d06fd507e841206fc4f7ea6dbf9584254dab12c8bb73ca448b89b1608a4eca79b7f78b16d358db2a3cad4599ee96ff69efb151da6e801c30226501e3a5a              185 Release
+ 649e2861284d8d72d5e192f44a5e74688639ecc4fcce9a548b75af8025b8cdb1cd1f33cc99848ebf1372e9821ea9994b0859b0fecb1d14fbd58ed9d8677cccc5              714 main/binary-amd64/Packages
+ bc849cfa94a23b5b9013d2b9ba2bdd66f6b63be1b8f11cbda03e5a5460735f4c2ed9901450f700a9ad07c265256ec8960a74cd9f8ea07a889f4ea17a2a77596e              474 main/binary-amd64/Packages.gz
+ 436798b7839b78560336142205e2c37def759bd4d62cdfc601b48833c07401ee1f2c87ba46049f2b5e90466db22ca0c4ede430b1c144e0c7b90ab14509e7b044              714 main/binary-arm64/Packages
+ 22b7a48eaf3343a5369cb48f8c9f39bd4290e5d655ca367d454a5904b6f00b73b170c920a57b2f5266e5afe775bf3f66388cfeba25fcfae65f9181d2b59b31c1              475 main/binary-arm64/Packages.gz
