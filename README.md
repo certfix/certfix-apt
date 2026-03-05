@@ -1,6 +1,8 @@
 # Certfix APT Repository
 
-This is the official APT repository for the [Certfix Agent](https://github.com/certfix/certfix-agent).
+This is the official APT package distribution repository for the [Certfix Agent](https://github.com/certfix/certfix-agent). It is served via GitHub Pages and contains only compiled `.deb` packages.
+
+> **Do not clone this repository.** To install the agent, follow the APT instructions below.
 
 ## Installation
 
@@ -30,16 +32,16 @@ After installation, the agent needs to be configured to connect to the Certfix A
 Create `/etc/certfix-agent/config.json`:
 ```json
 {
-  "token": "YOUR_API_TOKEN",
-  "endpoint": "https://api.certfix.io"
+  "token": "YOUR_SERVICE_KEY",
+  "endpoint": "http://<your-certfix-core-host>:9976"
 }
 ```
 
 ### Option B: Environment Variables
 Edit `/etc/default/certfix-agent`:
 ```bash
-CERTFIX_AGENT_TOKEN="YOUR_API_TOKEN"
-CERTFIX_AGENT_ENDPOINT="https://api.certfix.io"
+CERTFIX_AGENT_TOKEN="YOUR_SERVICE_KEY"
+CERTFIX_AGENT_ENDPOINT="http://<your-certfix-core-host>:9976"
 ```
 
 After configuring, start the service:
